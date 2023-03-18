@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1ac73093-5295-4a4a-9297-6e918bf62955}</ProjectGuid>
-    <RootNamespace>FindMax</RootNamespace>
+    <ProjectGuid>{b9c1c193-3f29-4325-82ac-e0893df29ba6}</ProjectGuid>
+    <RootNamespace>SearchNumberK</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AppFindMax.cpp" />
+    <ClCompile Include="AppSearchNumberK.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
